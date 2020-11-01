@@ -65,7 +65,7 @@ java课程作业仓库
  ................         
  
 实验结果
-![image](https://github.com/Dark-less/Java2/blob/main/images/1604241055(1).jpg}
+![image](https://github.com/Dark-less/Java2/blob/main/images/1604241055(1).jpg)
 
 编程感想
 这次的实验不仅让我编出一个简单的程序，还使我提高了逻辑运算，使以后所编的代码更有逻辑性，更加清楚直白。掌握子类继承父类的用法，学会使用super去（）实化子类，一些不明白的知识点通过网络和询问同学也都已经解决，是我受益匪浅。
