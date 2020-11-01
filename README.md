@@ -17,8 +17,55 @@ java课程作业仓库
 4.输出结果
 5.检查代码，运行并输出
 
+核心方法
+................
+
+	class People{
+	    public People(){
+
+	    }
+	    public People(String name,int age,int number,String sex){
+	        this.name = name;
+	        this.age = age;
+	        this.number = number;
+	        this.sex = sex;
+	    }
+
+	    private String name;
+	    private int age;
+	    private int number;
+	    private String sex;
+
+	    public String getName() {
+	        return name;
+	    }
+	    public int getAge() {
+	        return age;
+	    }
+	    public String getSex() {
+	        return sex;
+	    }
+	    public int getNumber() {
+	        return number;
+	    }
+	    public void setName(String name) {
+	        this.name = name;
+	    }
+	    public void setAge(int age) {
+	            this.age = age;
+	    }
+	    public void setNumber(int number) {
+	        this.number = number;
+	    }
+	    public void setSex(String sex) {
+	        this.sex = sex;
+	    }
+
+	}
+ ................         
+ 
 实验结果
-![image]("C:\Users\Administrator\Desktop\1604241055(1).jpg"}
+![image](https://github.com/Dark-less/Java2/blob/main/images/1604241055(1).jpg}
 
 编程感想
 这次的实验不仅让我编出一个简单的程序，还使我提高了逻辑运算，使以后所编的代码更有逻辑性，更加清楚直白。掌握子类继承父类的用法，学会使用super去（）实化子类，一些不明白的知识点通过网络和询问同学也都已经解决，是我受益匪浅。
